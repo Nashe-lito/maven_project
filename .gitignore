@@ -1,0 +1,9 @@
+.idea/*
+/target/
+/src/test/java/screenshots/
+
+*.class
+*.war
+*.jar
+*.ear
+
